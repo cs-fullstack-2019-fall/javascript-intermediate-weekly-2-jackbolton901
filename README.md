@@ -51,3 +51,6 @@ Check if the User’s answer is correct and display an alert stating if they wer
 
 #### Notes
 - It's expected you know how to use git to push and pull your projects. You will not get ANY points if you push your work after 5pm.
+
+## From Kenn
+Great job. It looks like you tackled all the simple requirements and started working on putting it all together. I had to mark off points for not displaying the question in the correct format, not checking for the answer being correct, and displaying if it's is or not correct.
